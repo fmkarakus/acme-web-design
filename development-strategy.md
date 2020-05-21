@@ -8,7 +8,11 @@ This page contains basic information about the company which provides basic web-
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe-home](./wireframe/wireframe-home.png)
+
+![wireframe-about](./wireframe/wireframe-About.png)
+
+![wireframe-services](./wireframe/wireframe-services.png)
 
 ## 0. Set-Up
 
